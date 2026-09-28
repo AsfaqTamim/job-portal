@@ -1,0 +1,6 @@
+{
+  "name": "বাউবি নিয়োগ পোর্টাল (Career BOU Portal)",
+  "description": "বাংলাদেশ উন্মুক্ত বিশ্ববিদ্যালয় নিয়োগ পোর্টাল - উন্মুক্ত ও আধুনিক কর্মসংস্থান, মেধার মূল্যায়নে স্বচ্ছ নিয়োগ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
